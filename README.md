@@ -15,7 +15,9 @@ N/A
 
 The website is simple to navigate - if you click one of the links in the header bar then it will take you to the relevant paragraph in order to read about it. Also, if you hover above any of the images that aren't the background images, alt text appears in order to make the page more accessible.
 
-(insert ss once deployed)
+```md
+![alt text: website screenshots](assets/images/screenshot.png)(assets/images/screenshot2.png)
+```
 
 ## Credits
 
