@@ -8,6 +8,12 @@ body {
     background-color: #d9dcd6;
 }
 
+/*****************************************
+*
+* HEADER TAGS
+*
+*****************************************/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,15 +46,32 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/*****************************************
+*
+* ANCHOR TAGS
+*
+*****************************************/
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*****************************************
+*
+* PARAGRAPH TAGS
+*
+*****************************************/
+
 p {
     font-size: 16px;
 }
+
+/*****************************************
+*
+* BACKGROUND & GENERAL IMAGE TAGS
+*
+*****************************************/
 
 .hero {
     height: 800px;
@@ -69,11 +92,23 @@ p {
     margin-left: 25px;
 }
 
+/*****************************************
+*
+* CONTENT TAGS
+*
+*****************************************/
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*****************************************
+*
+* BENEFITS SIDEBAR TAGS
+*
+*****************************************/
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +169,12 @@ p {
     max-width: 150px;
 }
 
+/*****************************************
+*
+* MAIN BODY TAGS
+*
+*****************************************/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,6 +228,12 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*****************************************
+*
+* FOOTER TAGS
+*
+*****************************************/
 
 .footer {
     padding: 30px;
